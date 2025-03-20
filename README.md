@@ -34,17 +34,25 @@ Hardware – PCs, Cyclone II , USB flasher
 **Program:**
 
 /* Program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
+![Screenshot 2025-03-20 105528](https://github.com/user-attachments/assets/9c34e67b-1915-4e7e-b72b-d537223dd60a)
 
-Developed by: RegisterNumber:*/
+
+Developed by:Harini.S 
+RegisterNumber:212224220033*/
+**Truth table and logic diagram**
+![WhatsApp Image 2025-03-20 at 11 20 02_87213102](https://github.com/user-attachments/assets/22d32137-e906-4e62-8564-fd0320286ed0)
+![WhatsApp Image 2025-03-20 at 11 20 03_debddead](https://github.com/user-attachments/assets/a1dd643e-0bea-4e26-937a-1fc2f5df9ece)
+![Screenshot 2025-03-20 105552](https://github.com/user-attachments/assets/4b4e48b5-7732-42f6-b0aa-3c36fe31c14d)
+
 
 
 **RTL realization**
 
+![Screenshot 2025-03-20 110545](https://github.com/user-attachments/assets/7a25096a-8fa6-42ab-9071-395efcd94db8)
+
 **Output:**
+Thus the boolean function minimization using quartus for different combinations is done successfully.
 
-**RTL**
-
-**Timing Diagram**
 
 **Result:**
 
