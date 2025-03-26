@@ -40,6 +40,7 @@ Hardware – PCs, Cyclone II , USB flasher
 
 
 Developed by:Harini.S 
+
 RegisterNumber:212224220033*/
 
 **Truth table**
