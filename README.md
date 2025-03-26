@@ -43,6 +43,7 @@ Developed by:Harini.S
 RegisterNumber:212224220033*/
 
 **Truth table**
+
 ![rsz_11whatsapp_image_2025-03-20_at_112003_a23787ed](https://github.com/user-attachments/assets/8497b0db-0a93-4cb3-aa45-c2d21e97025d)
 
 ![rsz_1whatsapp_image_2025-03-20_at_112003_a23787ed](https://github.com/user-attachments/assets/a7616bf1-25ab-4471-bce5-5c16620ad0fe)
