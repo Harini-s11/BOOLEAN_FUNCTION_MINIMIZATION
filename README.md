@@ -2,7 +2,7 @@
 
 # 212224220033
 
-# EXP.NO:2 BOOLEAN FUNCTION MINIMIZATION
+# EXP.NO:2 IMPLEMENTATION OF BOOLEAN FUNCTION
 
 
 
@@ -22,7 +22,7 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Software – Quartus prime**
 
-**Theory**
+
 
 **Logic Diagram**
 
