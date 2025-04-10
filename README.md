@@ -1,3 +1,9 @@
+HARINI.S
+212224220033
+EXP.NO:2 BOOLEAN FUNCTION MINIMIZATION
+
+
+
 # BOOLEAN_FUNCTION_MINIMIZATION
 
 **AIM:**
@@ -39,9 +45,6 @@ Hardware – PCs, Cyclone II , USB flasher
 ![Screenshot 2025-03-20 105528](https://github.com/user-attachments/assets/9c34e67b-1915-4e7e-b72b-d537223dd60a)
 
 
-Developed by:Harini.S 
-
-RegisterNumber:212224220033*/
 
 **Truth table**
 
@@ -56,9 +59,6 @@ RegisterNumber:212224220033*/
 **RTL realization**
 
 ![Screenshot 2025-03-20 110545](https://github.com/user-attachments/assets/7a25096a-8fa6-42ab-9071-395efcd94db8)
-
-**Output:**
-Thus the boolean function minimization using quartus for different combinations is done successfully.
 
 
 **Result:**
