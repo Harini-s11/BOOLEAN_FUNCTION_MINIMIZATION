@@ -24,6 +24,7 @@ Hardware – PCs, Cyclone II , USB flasher
 
 **Theory**
 A Boolean function consists of a number of Boolean variables joined by the Boolean connectives AND and OR. 
+
 For example. f ( A , B , C , D ) = A B C ¯ + C D + B ¯ or g ( A , B , C , D ) = ( A + B + C ) ( C ¯ + D ¯ ) ( A + B )
 
 The implementation of Boolean functions by using logic gates involves connecting output of one logic gate to the input of another gate. 
