@@ -32,9 +32,7 @@ Commonly used Logic Gates are: AND, OR, NAND and NOR gates.
 
 
 
-**Logic Diagram**
 
-![Screenshot 2025-03-20 105552](https://github.com/user-attachments/assets/4b4e48b5-7732-42f6-b0aa-3c36fe31c14d)
 
 **Procedure**
 
@@ -67,6 +65,11 @@ Commonly used Logic Gates are: AND, OR, NAND and NOR gates.
 
 
 **RTL realization**
+
+![Screenshot 2025-03-20 105552](https://github.com/user-attachments/assets/4b4e48b5-7732-42f6-b0aa-3c36fe31c14d)
+
+
+**Timing diagram**
 
 ![Screenshot 2025-03-20 110545](https://github.com/user-attachments/assets/7a25096a-8fa6-42ab-9071-395efcd94db8)
 
